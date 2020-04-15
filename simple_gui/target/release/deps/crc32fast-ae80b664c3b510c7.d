@@ -1,0 +1,12 @@
+/home/gian/Documents/rust_projects/simple_gui/target/release/deps/crc32fast-ae80b664c3b510c7.rmeta: /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/lib.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/baseline.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/combine.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/specialized/mod.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/table.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/specialized/pclmulqdq.rs
+
+/home/gian/Documents/rust_projects/simple_gui/target/release/deps/libcrc32fast-ae80b664c3b510c7.rlib: /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/lib.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/baseline.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/combine.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/specialized/mod.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/table.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/specialized/pclmulqdq.rs
+
+/home/gian/Documents/rust_projects/simple_gui/target/release/deps/crc32fast-ae80b664c3b510c7.d: /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/lib.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/baseline.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/combine.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/specialized/mod.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/table.rs /home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/specialized/pclmulqdq.rs
+
+/home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/lib.rs:
+/home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/baseline.rs:
+/home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/combine.rs:
+/home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/specialized/mod.rs:
+/home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/table.rs:
+/home/gian/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.0/src/specialized/pclmulqdq.rs:
